@@ -1,2 +1,3 @@
-In week five i worked in logical design and completed it, physical design 50 percent completed .
-I discussed with my friends about the design parts and got some ideas from them as well.
+In week five i work in martix formation and discuss with my friend about it.
+Tried to anlysis tools and technologies that are need for the project.
+The RAXI matrix is used to securtiy control mechnaism in the projet.
